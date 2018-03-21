@@ -1,5 +1,5 @@
 # How to use
-1. Install R (r-cran.org)
+1. Install R (cran.r-project.org)
 1. Open an R console with `R`
 1. Load the code with `source('example_outdoor_driving.R')
 1. Do 50 trials with `trials(50)`
